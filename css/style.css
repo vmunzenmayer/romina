@@ -521,6 +521,7 @@ a:focus {
 
 .about .about-text p {
     font-size: 16px;
+    text-align: justify;
 }
 
 .about .about-text li {
@@ -1983,7 +1984,6 @@ a:focus {
 }
 
 .footer .copyright {
-    margin-top: 60px;
     padding: 0 30px;
 }
 
